@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tuh:home|Door43 (tuh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tuh|d43-tuh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tuh/archive/master.zip|d43-tuh.zip]]
+
+**Recent Changes**
+{{changes>ns = tuh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tuh|Ethnologue data]]
+
